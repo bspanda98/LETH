@@ -46,7 +46,7 @@ https://nodejs.org/dist/v4.2.3/node-v4.2.3.pkg
 
 Install ionic and cordova
 ```bash
-sudo npm install -g cordova ionic
+sudo npm i -g @ionic/cli
 ```
 
 Clone the project
